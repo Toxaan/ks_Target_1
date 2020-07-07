@@ -12,7 +12,6 @@ namespace ks_Target_1
             var frSub = fraction1 - fraction2;
             var frMult = fraction1 * fraction2;
 
-
             fraction1.print();
             frSum.print();
             frSub.print();
